@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/carles/exercicis/RoboticaUVic-PR-week7/c++/src/face_detect.cpp
+iostream
+-
+cstdlib
+-
+vector
+-
+opencv2/opencv.hpp
+-
+

@@ -1,0 +1,1 @@
+/home/carles/exercicis/RoboticaUVic-PR-week7/c++/build/CMakeFiles/face_detect.dir
